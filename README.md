@@ -68,6 +68,18 @@ AI-Interview-Analyzer/
 * AI-generated interview improvement suggestions
 * Support for multilingual interviews
 
+## Screenshots
+
+### Home Page
+
+![alt text](homepage-2.png)
+### Analysis Dashboard
+
+![Analysis](images/analysis.png)
+
+### Final Results
+
+![alt text](result.png)
 ## Author
 
 **Rathish**
